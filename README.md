@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Data Structures</title>
 </head>
 <h2>Проектът ще обхваща основните структури от данни:</h2>
 <ul>
