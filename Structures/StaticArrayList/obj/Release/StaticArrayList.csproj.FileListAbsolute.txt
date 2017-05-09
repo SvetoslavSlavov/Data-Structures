@@ -1,0 +1,5 @@
+D:\ООП и Събитийно Програмиране\Exercise\StaticArrayList\StaticArrayList\bin\Release\StaticArrayList.exe.config
+D:\ООП и Събитийно Програмиране\Exercise\StaticArrayList\StaticArrayList\bin\Release\StaticArrayList.exe
+D:\ООП и Събитийно Програмиране\Exercise\StaticArrayList\StaticArrayList\bin\Release\StaticArrayList.pdb
+D:\ООП и Събитийно Програмиране\Exercise\StaticArrayList\StaticArrayList\obj\Release\StaticArrayList.exe
+D:\ООП и Събитийно Програмиране\Exercise\StaticArrayList\StaticArrayList\obj\Release\StaticArrayList.pdb

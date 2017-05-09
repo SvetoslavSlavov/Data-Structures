@@ -1,0 +1,2 @@
+D:\ООП и Събитийно Програмиране\Exercise\StaticArrayList\StaticArrayList\bin\Debug\StaticArrayList.exe.config
+D:\ООП и Събитийно Програмиране\Exercise\StaticArrayList\StaticArrayList\obj\Debug\StaticArrayList.csprojResolveAssemblyReference.cache
