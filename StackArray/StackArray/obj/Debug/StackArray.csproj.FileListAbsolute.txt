@@ -1,0 +1,6 @@
+D:\ООП и Събитийно Програмиране\Exercise\StackArray\StackArray\bin\Debug\StackArray.exe.config
+D:\ООП и Събитийно Програмиране\Exercise\StackArray\StackArray\bin\Debug\StackArray.exe
+D:\ООП и Събитийно Програмиране\Exercise\StackArray\StackArray\bin\Debug\StackArray.pdb
+D:\ООП и Събитийно Програмиране\Exercise\StackArray\StackArray\obj\Debug\StackArray.csprojResolveAssemblyReference.cache
+D:\ООП и Събитийно Програмиране\Exercise\StackArray\StackArray\obj\Debug\StackArray.exe
+D:\ООП и Събитийно Програмиране\Exercise\StackArray\StackArray\obj\Debug\StackArray.pdb

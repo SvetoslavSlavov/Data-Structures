@@ -1,0 +1,5 @@
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\bin\Release\GenericListT.exe.config
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\bin\Release\GenericListT.exe
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\bin\Release\GenericListT.pdb
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\obj\Release\GenericListT.exe
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\obj\Release\GenericListT.pdb

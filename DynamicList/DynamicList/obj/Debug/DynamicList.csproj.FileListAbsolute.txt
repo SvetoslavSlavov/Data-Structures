@@ -1,0 +1,6 @@
+D:\ООП и Събитийно Програмиране\Exercise\DynamicList\DynamicList\bin\Debug\DynamicList.exe.config
+D:\ООП и Събитийно Програмиране\Exercise\DynamicList\DynamicList\bin\Debug\DynamicList.exe
+D:\ООП и Събитийно Програмиране\Exercise\DynamicList\DynamicList\bin\Debug\DynamicList.pdb
+D:\ООП и Събитийно Програмиране\Exercise\DynamicList\DynamicList\obj\Debug\DynamicList.csprojResolveAssemblyReference.cache
+D:\ООП и Събитийно Програмиране\Exercise\DynamicList\DynamicList\obj\Debug\DynamicList.exe
+D:\ООП и Събитийно Програмиране\Exercise\DynamicList\DynamicList\obj\Debug\DynamicList.pdb

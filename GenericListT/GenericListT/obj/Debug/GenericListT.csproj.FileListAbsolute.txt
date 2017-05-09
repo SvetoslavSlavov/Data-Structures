@@ -1,0 +1,6 @@
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\bin\Debug\GenericListT.exe.config
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\bin\Debug\GenericListT.exe
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\bin\Debug\GenericListT.pdb
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\obj\Debug\GenericListT.csprojResolveAssemblyReference.cache
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\obj\Debug\GenericListT.exe
+D:\ООП и Събитийно Програмиране\Exercise\GenericListT\GenericListT\obj\Debug\GenericListT.pdb
