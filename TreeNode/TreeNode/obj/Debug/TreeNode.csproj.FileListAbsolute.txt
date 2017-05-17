@@ -1,0 +1,6 @@
+D:\ООП и Събитийно Програмиране\Exercise\TreeNode\TreeNode\bin\Debug\TreeNode.exe.config
+D:\ООП и Събитийно Програмиране\Exercise\TreeNode\TreeNode\obj\Debug\TreeNode.csprojResolveAssemblyReference.cache
+D:\ООП и Събитийно Програмиране\Exercise\TreeNode\TreeNode\bin\Debug\TreeNode.exe
+D:\ООП и Събитийно Програмиране\Exercise\TreeNode\TreeNode\bin\Debug\TreeNode.pdb
+D:\ООП и Събитийно Програмиране\Exercise\TreeNode\TreeNode\obj\Debug\TreeNode.exe
+D:\ООП и Събитийно Програмиране\Exercise\TreeNode\TreeNode\obj\Debug\TreeNode.pdb
